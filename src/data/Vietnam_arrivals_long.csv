@@ -1,0 +1,2799 @@
+month,source_country,arrivals
+2009-01,Australia,20680
+2009-01,China,60723
+2009-01,France,19308
+2009-01,Japan,34721
+2009-01,Malaysia,18989
+2009-01,Singapore,18295
+2009-01,South Korea,32997
+2009-01,Taiwan,21239
+2009-01,Thailand,16446
+2009-01,United States of America,33379
+2009-02,Australia,18379
+2009-02,Canada,10013
+2009-02,China,41608
+2009-02,France,16052
+2009-02,Japan,34725
+2009-02,Malaysia,14202
+2009-02,South Korea,39271
+2009-02,Taiwan,29448
+2009-02,Thailand,12247
+2009-02,United States of America,39773
+2009-03,Australia,15274
+2009-03,Canada,7051
+2009-03,China,33873
+2009-03,France,18547
+2009-03,Japan,31619
+2009-03,Malaysia,13193
+2009-03,South Korea,32572
+2009-03,Taiwan,21572
+2009-03,Thailand,13581
+2009-03,United States of America,31368
+2009-04,Australia,20024
+2009-04,Canada,6668
+2009-04,China,35590
+2009-04,France,18418
+2009-04,Japan,29745
+2009-04,Malaysia,13776
+2009-04,South Korea,31285
+2009-04,Taiwan,23208
+2009-04,Thailand,15980
+2009-04,United States of America,31314
+2009-05,Australia,14942
+2009-05,Canada,5440
+2009-05,China,39920
+2009-05,France,14971
+2009-05,Japan,28252
+2009-05,Malaysia,13927
+2009-05,South Korea,37659
+2009-05,Taiwan,23086
+2009-05,Thailand,15253
+2009-05,United States of America,30785
+2009-06,Australia,14609
+2009-06,Canada,5359
+2009-06,China,39494
+2009-06,France,10001
+2009-06,Japan,21093
+2009-06,Malaysia,14211
+2009-06,South Korea,31949
+2009-06,Taiwan,20900
+2009-06,Thailand,13902
+2009-06,United States of America,39318
+2009-07,Australia,15696
+2009-07,Canada,7384
+2009-07,China,34937
+2009-07,France,12468
+2009-07,Japan,20003
+2009-07,Malaysia,10494
+2009-07,South Korea,23906
+2009-07,Taiwan,24411
+2009-07,Thailand,9478
+2009-07,United States of America,38625
+2010-01,Australia,31788
+2010-01,Canada,10043
+2010-01,China,59426
+2010-01,France,14916
+2010-01,Japan,33930
+2010-01,Malaysia,13848
+2010-01,South Korea,42068
+2010-01,Taiwan,23628
+2010-01,Thailand,11520
+2010-01,United States of America,39146
+2010-02,Australia,23719
+2010-02,Cambodia,17342
+2010-02,China,69358
+2010-02,France,19194
+2010-02,Japan,36765
+2010-02,Malaysia,14318
+2010-02,South Korea,44284
+2010-02,Taiwan,33895
+2010-02,Thailand,16757
+2010-02,United States of America,48307
+2010-03,Australia,22613
+2010-03,Cambodia,25773
+2010-03,China,90258
+2010-03,France,22388
+2010-03,Japan,39550
+2010-03,Malaysia,15859
+2010-03,South Korea,45722
+2010-03,Taiwan,28671
+2010-03,Thailand,18624
+2010-03,United States of America,38529
+2010-04,Australia,26071
+2010-04,Cambodia,21990
+2010-04,China,84329
+2010-04,France,19583
+2010-04,Japan,36085
+2010-04,Malaysia,16933
+2010-04,South Korea,43152
+2010-04,Taiwan,27536
+2010-04,Thailand,20948
+2010-04,United States of America,35444
+2010-05,Australia,17628
+2010-05,Cambodia,15919
+2010-05,China,53385
+2010-05,France,14355
+2010-05,Japan,34175
+2010-05,Malaysia,16846
+2010-05,South Korea,40716
+2010-05,Taiwan,25996
+2010-05,Thailand,18837
+2010-05,United States of America,30502
+2010-06,Australia,19021
+2010-06,Cambodia,20571
+2010-06,China,71719
+2010-06,France,10184
+2010-06,Japan,29755
+2010-06,Malaysia,20548
+2010-06,South Korea,35448
+2010-06,Taiwan,26204
+2010-06,Thailand,16453
+2010-06,United States of America,37180
+2010-07,Australia,23522
+2010-07,Cambodia,25867
+2010-07,China,74633
+2010-07,France,16085
+2010-07,Japan,29536
+2010-07,Malaysia,16472
+2010-07,South Korea,36827
+2010-07,Taiwan,32594
+2010-07,Thailand,15981
+2010-07,United States of America,36098
+2011-01,Australia,40779
+2011-01,Cambodia,21577
+2011-01,China,76358
+2011-01,France,18964
+2011-01,Japan,45085
+2011-01,Malaysia,17554
+2011-01,South Korea,51794
+2011-01,Taiwan,26316
+2011-01,Thailand,19194
+2011-01,United States of America,46800
+2011-02,Australia,26748
+2011-02,Cambodia,24992
+2011-02,China,114748
+2011-02,France,20817
+2011-02,Malaysia,18109
+2011-02,South Korea,50703
+2011-02,Taiwan,36560
+2011-02,Thailand,17269
+2011-02,United States of America,49787
+2011-03,Australia,20089
+2011-03,Cambodia,30017
+2011-03,China,96467
+2011-03,France,22589
+2011-03,Japan,43500
+2011-03,Malaysia,18248
+2011-03,South Korea,41462
+2011-03,Taiwan,26056
+2011-03,United Kingdom,13653
+2011-03,United States of America,37107
+2011-04,Australia,26332
+2011-04,Cambodia,23362
+2011-04,China,87649
+2011-04,France,19080
+2011-04,Japan,41450
+2011-04,Malaysia,16184
+2011-04,South Korea,43817
+2011-04,Taiwan,27014
+2011-04,United Kingdom,12594
+2011-04,United States of America,40641
+2011-05,Australia,19365
+2011-05,Cambodia,43856
+2011-05,China,130713
+2011-05,France,15327
+2011-05,Japan,35056
+2011-05,Malaysia,20060
+2011-05,South Korea,38488
+2011-05,Taiwan,30635
+2011-05,Thailand,14660
+2011-05,United States of America,32304
+2011-06,Australia,17728
+2011-06,Cambodia,38628
+2011-06,China,115621
+2011-06,France,10246
+2011-06,Japan,31204
+2011-06,Malaysia,22931
+2011-06,Singapore,18110
+2011-06,South Korea,39407
+2011-06,Taiwan,29402
+2011-06,United States of America,37223
+2011-07,Australia,18547
+2011-07,Cambodia,41242
+2011-07,China,123167
+2011-07,France,12787
+2011-07,Japan,33130
+2011-07,Malaysia,21496
+2011-07,Singapore,16053
+2011-07,South Korea,38948
+2011-07,Taiwan,30019
+2011-07,United States of America,34764
+2012-01,Australia,30664
+2012-01,Cambodia,42085
+2012-01,China,147667
+2012-01,France,25270
+2012-01,Japan,56913
+2012-01,Malaysia,20769
+2012-01,South Korea,60624
+2012-01,Taiwan,43499
+2012-01,United Kingdom,17863
+2012-01,United States of America,59326
+2012-02,Australia,29527
+2012-02,Cambodia,31655
+2012-02,China,142462
+2012-02,France,22360
+2012-02,Japan,51412
+2012-02,Malaysia,25302
+2012-02,Russian Federation,20433
+2012-02,South Korea,81220
+2012-02,Taiwan,44588
+2012-02,United States of America,48585
+2012-03,Australia,23212
+2012-03,Cambodia,28887
+2012-03,China,101482
+2012-03,France,24378
+2012-03,Japan,50865
+2012-03,Malaysia,24125
+2012-03,Russian Federation,17011
+2012-03,South Korea,64484
+2012-03,Taiwan,30558
+2012-03,United States of America,36875
+2012-04,Australia,27597
+2012-04,Cambodia,29988
+2012-04,China,121580
+2012-04,France,23827
+2012-04,Japan,52675
+2012-04,Malaysia,23227
+2012-04,Russian Federation,18581
+2012-04,South Korea,68272
+2012-04,Taiwan,37259
+2012-04,United States of America,42600
+2012-05,Australia,19164
+2012-05,Cambodia,22184
+2012-05,China,90064
+2012-05,France,16540
+2012-05,Japan,40455
+2012-05,Malaysia,22976
+2012-05,Russian Federation,11945
+2012-05,South Korea,48409
+2012-05,Taiwan,35590
+2012-05,Thailand,21828
+2012-05,United States of America,31197
+2012-06,Australia,19364
+2012-06,Cambodia,21607
+2012-06,China,79020
+2012-06,France,9551
+2012-06,Japan,36648
+2012-06,Malaysia,29131
+2012-06,South Korea,46923
+2012-06,Taiwan,31023
+2012-06,Thailand,15493
+2012-06,United States of America,36298
+2012-07,Australia,20643
+2012-07,Cambodia,23033
+2012-07,China,90741
+2012-07,France,15584
+2012-07,Japan,40515
+2012-07,Malaysia,23518
+2012-07,South Korea,51075
+2012-07,Taiwan,32427
+2012-07,Thailand,16833
+2012-07,United States of America,34370
+2013-01,Australia,41296
+2013-01,Belgium,1723
+2013-01,Cambodia,29605
+2013-01,Canada,11743
+2013-01,China,143939
+2013-01,Denmark,2778
+2013-01,Finland,2562
+2013-01,France,18477
+2013-01,Germany,4103
+2013-01,Hong Kong,887
+2013-01,Indonesia,7074
+2013-01,Italy,3651
+2013-01,Japan,51486
+2013-01,Lao People's Democratic Republic,10389
+2013-01,Malaysia,23004
+2013-01,Netherlands,4253
+2013-01,New Zealand,3663
+2013-01,Norway,2030
+2013-01,Philippines,7739
+2013-01,Russian Federation,25767
+2013-01,Singapore,15513
+2013-01,South Korea,84283
+2013-01,Spain,1966
+2013-01,Sweden,5907
+2013-01,Switzerland,3279
+2013-01,Taiwan,28306
+2013-01,Thailand,21132
+2013-01,United Kingdom,15933
+2013-01,United States of America,46364
+2013-02,Australia,23168
+2013-02,Belgium,1439
+2013-02,Cambodia,19086
+2013-02,Canada,11157
+2013-02,China,130530
+2013-02,Denmark,3059
+2013-02,Finland,1929
+2013-02,France,16900
+2013-02,Germany,4283
+2013-02,Hong Kong,475
+2013-02,Indonesia,4204
+2013-02,Italy,2441
+2013-02,Japan,47126
+2013-02,Lao People's Democratic Republic,6838
+2013-02,Malaysia,23682
+2013-02,Netherlands,3566
+2013-02,New Zealand,1612
+2013-02,Norway,2027
+2013-02,Philippines,6044
+2013-02,Russian Federation,28253
+2013-02,Singapore,12160
+2013-02,South Korea,72348
+2013-02,Spain,1503
+2013-02,Sweden,3612
+2013-02,Switzerland,2726
+2013-02,Taiwan,39970
+2013-02,Thailand,15488
+2013-02,United Kingdom,14780
+2013-02,United States of America,44019
+2013-03,Australia,22878
+2013-03,Belgium,1913
+2013-03,Cambodia,25399
+2013-03,Canada,10222
+2013-03,China,129961
+2013-03,Denmark,2687
+2013-03,Finland,1410
+2013-03,France,22594
+2013-03,Germany,10099
+2013-03,Hong Kong,423
+2013-03,Indonesia,5899
+2013-03,Italy,3054
+2013-03,Japan,57764
+2013-03,Lao People's Democratic Republic,8173
+2013-03,Malaysia,23459
+2013-03,Netherlands,3585
+2013-03,New Zealand,1861
+2013-03,Norway,1680
+2013-03,Philippines,7631
+2013-03,Russian Federation,30677
+2013-03,Singapore,14996
+2013-03,South Korea,67745
+2013-03,Spain,1742
+2013-03,Sweden,3514
+2013-03,Switzerland,2413
+2013-03,Taiwan,28427
+2013-03,Thailand,23561
+2013-03,United Kingdom,16318
+2013-03,United States of America,37273
+2013-04,Australia,31186
+2013-04,Belgium,2279
+2013-04,Cambodia,26854
+2013-04,Canada,9024
+2013-04,China,153051
+2013-04,Denmark,2312
+2013-04,Finland,897
+2013-04,France,22178
+2013-04,Germany,9318
+2013-04,Hong Kong,1087
+2013-04,Indonesia,6679
+2013-04,Italy,2341
+2013-04,Japan,48581
+2013-04,Lao People's Democratic Republic,8112
+2013-04,Malaysia,29942
+2013-04,Netherlands,3465
+2013-04,New Zealand,2817
+2013-04,Norway,2090
+2013-04,Philippines,9327
+2013-04,Russian Federation,28172
+2013-04,Singapore,15643
+2013-04,South Korea,55720
+2013-04,Spain,2032
+2013-04,Sweden,2441
+2013-04,Switzerland,2903
+2013-04,Taiwan,19341
+2013-04,Thailand,28269
+2013-04,United Kingdom,19147
+2013-04,United States of America,37497
+2013-05,Australia,21343
+2013-05,Belgium,1247
+2013-05,Cambodia,25829
+2013-05,Canada,7300
+2013-05,China,148606
+2013-05,Denmark,1257
+2013-05,Finland,546
+2013-05,France,18715
+2013-05,Germany,3046
+2013-05,Hong Kong,555
+2013-05,Indonesia,5418
+2013-05,Italy,2187
+2013-05,Japan,45877
+2013-05,Lao People's Democratic Republic,7134
+2013-05,Malaysia,27274
+2013-05,Netherlands,3152
+2013-05,New Zealand,2530
+2013-05,Norway,894
+2013-05,Philippines,8983
+2013-05,Russian Federation,23932
+2013-05,Singapore,13663
+2013-05,South Korea,51101
+2013-05,Spain,1890
+2013-05,Sweden,1302
+2013-05,Switzerland,1723
+2013-05,Taiwan,32148
+2013-05,Thailand,21281
+2013-05,United Kingdom,12609
+2013-05,United States of America,29141
+2013-06,Australia,20609
+2013-06,Belgium,1029
+2013-06,Cambodia,29096
+2013-06,Canada,6528
+2013-06,China,129577
+2013-06,Denmark,1224
+2013-06,Finland,802
+2013-06,France,10248
+2013-06,Germany,3375
+2013-06,Hong Kong,767
+2013-06,Indonesia,5903
+2013-06,Italy,1673
+2013-06,Japan,43653
+2013-06,Lao People's Democratic Republic,9766
+2013-06,Malaysia,35976
+2013-06,Netherlands,2671
+2013-06,New Zealand,2163
+2013-06,Norway,1392
+2013-06,Philippines,9074
+2013-06,Russian Federation,17098
+2013-06,Singapore,19217
+2013-06,South Korea,54673
+2013-06,Spain,1727
+2013-06,Sweden,1577
+2013-06,Switzerland,1272
+2013-06,Taiwan,33952
+2013-06,Thailand,19625
+2013-06,United Kingdom,12253
+2013-06,United States of America,38340
+2013-07,Australia,31263
+2013-07,Belgium,2913
+2013-07,Cambodia,30633
+2013-07,Canada,8712
+2013-07,China,173257
+2013-07,Denmark,3601
+2013-07,Finland,1088
+2013-07,France,15829
+2013-07,Germany,6775
+2013-07,Hong Kong,887
+2013-07,Indonesia,5862
+2013-07,Italy,1953
+2013-07,Japan,44485
+2013-07,Lao People's Democratic Republic,17506
+2013-07,Malaysia,26120
+2013-07,Netherlands,6223
+2013-07,New Zealand,3376
+2013-07,Norway,4069
+2013-07,Philippines,7611
+2013-07,Russian Federation,16642
+2013-07,Singapore,14720
+2013-07,South Korea,53269
+2013-07,Spain,3118
+2013-07,Sweden,2507
+2013-07,Switzerland,2661
+2013-07,Taiwan,45567
+2013-07,Thailand,22407
+2013-07,United Kingdom,14421
+2013-07,United States of America,36723
+2014-01,Australia,46320
+2014-01,Belgium,1990
+2014-01,Cambodia,31299
+2014-01,Canada,13494
+2014-01,China,158734
+2014-01,Denmark,3229
+2014-01,Finland,2489
+2014-01,France,19835
+2014-01,Germany,14701
+2014-01,Hong Kong,1660
+2014-01,Indonesia,6923
+2014-01,Italy,4210
+2014-01,Japan,57808
+2014-01,Lao People's Democratic Republic,8592
+2014-01,Malaysia,25747
+2014-01,Netherlands,4569
+2014-01,New Zealand,4008
+2014-01,Norway,2836
+2014-01,Philippines,9381
+2014-01,Russian Federation,48632
+2014-01,Singapore,16473
+2014-01,South Korea,82277
+2014-01,Spain,2174
+2014-01,Sweden,3728
+2014-01,Switzerland,6091
+2014-01,Taiwan,31488
+2014-01,Thailand,24056
+2014-01,United Kingdom,18857
+2014-01,United States of America,51800
+2014-02,Australia,26832
+2014-02,Belgium,2001
+2014-02,Cambodia,35357
+2014-02,Canada,13800
+2014-02,China,238265
+2014-02,Denmark,3768
+2014-02,Finland,1962
+2014-02,France,21180
+2014-02,Germany,15713
+2014-02,Hong Kong,2736
+2014-02,Indonesia,4943
+2014-02,Italy,3502
+2014-02,Japan,54698
+2014-02,Lao People's Democratic Republic,13081
+2014-02,Malaysia,26560
+2014-02,Netherlands,4481
+2014-02,New Zealand,2053
+2014-02,Norway,2549
+2014-02,Philippines,8197
+2014-02,Russian Federation,43282
+2014-02,Singapore,13854
+2014-02,South Korea,86616
+2014-02,Spain,2060
+2014-02,Sweden,4599
+2014-02,Switzerland,3218
+2014-02,Taiwan,45836
+2014-02,Thailand,19093
+2014-02,United Kingdom,19744
+2014-02,United States of America,50533
+2014-03,Australia,22194
+2014-03,Belgium,2026
+2014-03,Cambodia,32484
+2014-03,Canada,10231
+2014-03,China,190476
+2014-03,Denmark,2909
+2014-03,Finland,1483
+2014-03,France,24419
+2014-03,Germany,15574
+2014-03,Hong Kong,1421
+2014-03,Indonesia,5805
+2014-03,Italy,3329
+2014-03,Japan,58266
+2014-03,Lao People's Democratic Republic,9956
+2014-03,Malaysia,28516
+2014-03,Netherlands,3985
+2014-03,New Zealand,2121
+2014-03,Norway,2016
+2014-03,Philippines,7765
+2014-03,Russian Federation,39555
+2014-03,Singapore,18147
+2014-03,South Korea,69603
+2014-03,Spain,2322
+2014-03,Sweden,3442
+2014-03,Switzerland,2665
+2014-03,Taiwan,32131
+2014-03,Thailand,22499
+2014-03,United Kingdom,19670
+2014-03,United States of America,37718
+2014-04,Australia,32075
+2014-04,Belgium,2605
+2014-04,Cambodia,34345
+2014-04,Canada,9032
+2014-04,China,216659
+2014-04,Denmark,2665
+2014-04,Finland,802
+2014-04,France,22635
+2014-04,Germany,13647
+2014-04,Hong Kong,1943
+2014-04,Indonesia,6464
+2014-04,Italy,2829
+2014-04,Japan,51506
+2014-04,Lao People's Democratic Republic,11166
+2014-04,Malaysia,35116
+2014-04,Netherlands,4047
+2014-04,New Zealand,3502
+2014-04,Norway,2106
+2014-04,Philippines,10592
+2014-04,Russian Federation,23623
+2014-04,Singapore,17118
+2014-04,South Korea,60301
+2014-04,Spain,2858
+2014-04,Sweden,2564
+2014-04,Switzerland,3123
+2014-04,Taiwan,34825
+2014-04,Thailand,29804
+2014-04,United Kingdom,22774
+2014-04,United States of America,36160
+2014-05,Australia,22088
+2014-05,Belgium,1470
+2014-05,Cambodia,37422
+2014-05,Canada,7790
+2014-05,China,194018
+2014-05,Denmark,1369
+2014-05,Finland,524
+2014-05,France,17701
+2014-05,Germany,8136
+2014-05,Hong Kong,1825
+2014-05,Indonesia,5982
+2014-05,Italy,2231
+2014-05,Japan,50920
+2014-05,Lao People's Democratic Republic,13802
+2014-05,Malaysia,31721
+2014-05,Netherlands,3137
+2014-05,New Zealand,2847
+2014-05,Norway,913
+2014-05,Philippines,10348
+2014-05,Russian Federation,19990
+2014-05,Singapore,15968
+2014-05,South Korea,56187
+2014-05,Spain,2160
+2014-05,Sweden,1439
+2014-05,Switzerland,2037
+2014-05,Taiwan,33688
+2014-05,Thailand,27148
+2014-05,United Kingdom,14783
+2014-05,United States of America,30772
+2014-06,Australia,20527
+2014-06,Belgium,1026
+2014-06,Cambodia,31863
+2014-06,Canada,6741
+2014-06,China,136726
+2014-06,Denmark,1257
+2014-06,Finland,810
+2014-06,France,10508
+2014-06,Germany,6109
+2014-06,Hong Kong,506
+2014-06,Indonesia,6591
+2014-06,Italy,1919
+2014-06,Japan,44651
+2014-06,Lao People's Democratic Republic,13391
+2014-06,Malaysia,34647
+2014-06,Netherlands,2824
+2014-06,New Zealand,2525
+2014-06,Norway,1482
+2014-06,Philippines,9494
+2014-06,Russian Federation,18747
+2014-06,Singapore,16767
+2014-06,South Korea,50650
+2014-06,Spain,2080
+2014-06,Sweden,1558
+2014-06,Switzerland,1401
+2014-06,Taiwan,29762
+2014-06,Thailand,20458
+2014-06,United Kingdom,13529
+2014-06,United States of America,39307
+2014-07,Australia,30997
+2014-07,Belgium,3097
+2014-07,Cambodia,26537
+2014-07,Canada,7716
+2014-07,China,123442
+2014-07,Denmark,3731
+2014-07,Finland,929
+2014-07,France,15872
+2014-07,Germany,7884
+2014-07,Hong Kong,644
+2014-07,Indonesia,3766
+2014-07,Italy,1879
+2014-07,Japan,44681
+2014-07,Lao People's Democratic Republic,16066
+2014-07,Malaysia,16661
+2014-07,Netherlands,5836
+2014-07,New Zealand,3569
+2014-07,Norway,4385
+2014-07,Philippines,7463
+2014-07,Russian Federation,22713
+2014-07,Singapore,13452
+2014-07,South Korea,56450
+2014-07,Spain,3629
+2014-07,Sweden,2545
+2014-07,Switzerland,2779
+2014-07,Taiwan,38428
+2014-07,Thailand,19594
+2014-07,United Kingdom,15020
+2014-07,United States of America,38881
+2015-01,Australia,39577
+2015-01,Belgium,1827
+2015-01,Cambodia,29977
+2015-01,Canada,11375
+2015-01,China,119517
+2015-01,Denmark,3108
+2015-01,Finland,3032
+2015-01,France,18780
+2015-01,Hong Kong,1094
+2015-01,Indonesia,6060
+2015-01,Italy,4745
+2015-01,Japan,57593
+2015-01,Lao People's Democratic Republic,8396
+2015-01,Malaysia,25288
+2015-01,New Zealand,3949
+2015-01,Norway,2106
+2015-01,Philippines,7555
+2015-01,Russian Federation,34674
+2015-01,Singapore,19170
+2015-01,South Korea,116450
+2015-01,Spain,2839
+2015-01,Sweden,5588
+2015-01,Switzerland,3506
+2015-01,Taiwan,29094
+2015-01,Thailand,18996
+2015-01,United Kingdom,18120
+2015-01,United States of America,47757
+2015-02,Australia,45237
+2015-02,Belgium,1761
+2015-02,Cambodia,27953
+2015-02,Canada,13821
+2015-02,China,117566
+2015-02,Denmark,3675
+2015-02,Finland,4054
+2015-02,France,20703
+2015-02,Germany,15788
+2015-02,Hong Kong,1061
+2015-02,Indonesia,7158
+2015-02,Italy,6358
+2015-02,Japan,59321
+2015-02,Lao People's Democratic Republic,9320
+2015-02,Malaysia,19269
+2015-02,Netherlands,4980
+2015-02,New Zealand,4803
+2015-02,Norway,2378
+2015-02,Philippines,7933
+2015-02,Russian Federation,33634
+2015-02,Singapore,16160
+2015-02,South Korea,145563
+2015-02,Spain,2737
+2015-02,Sweden,6549
+2015-02,Taiwan,27057
+2015-02,Thailand,19376
+2015-02,United Kingdom,21284
+2015-02,United States of America,57308
+2015-03,Australia,20953
+2015-03,Belgium,1867
+2015-03,Cambodia,19756
+2015-03,Canada,10790
+2015-03,China,103670
+2015-03,Denmark,2711
+2015-03,Finland,1764
+2015-03,France,21543
+2015-03,Germany,15975
+2015-03,Hong Kong,959
+2015-03,Indonesia,4640
+2015-03,Italy,3512
+2015-03,Japan,61257
+2015-03,Lao People's Democratic Republic,9674
+2015-03,Malaysia,29516
+2015-03,Netherlands,3605
+2015-03,New Zealand,1828
+2015-03,Norway,1746
+2015-03,Philippines,7310
+2015-03,Russian Federation,27950
+2015-03,Singapore,17516
+2015-03,South Korea,90804
+2015-03,Spain,2240
+2015-03,Sweden,3174
+2015-03,Switzerland,2526
+2015-03,Taiwan,36657
+2015-03,Thailand,15695
+2015-03,United Kingdom,18345
+2015-03,United States of America,40666
+2015-04,Australia,31116
+2015-04,Belgium,2523
+2015-04,Cambodia,11730
+2015-04,Canada,8587
+2015-04,China,187080
+2015-04,Denmark,2642
+2015-04,Finland,945
+2015-04,France,21388
+2015-04,Germany,13926
+2015-04,Hong Kong,1415
+2015-04,Indonesia,4494
+2015-04,Italy,2864
+2015-04,Japan,48941
+2015-04,Lao People's Democratic Republic,10473
+2015-04,Malaysia,29298
+2015-04,Netherlands,3553
+2015-04,New Zealand,3122
+2015-04,Norway,2031
+2015-04,Philippines,9032
+2015-04,Russian Federation,28368
+2015-04,Singapore,18098
+2015-04,South Korea,85297
+2015-04,Spain,2917
+2015-04,Sweden,2355
+2015-04,Switzerland,2830
+2015-04,Taiwan,33978
+2015-04,Thailand,22109
+2015-04,United Kingdom,21186
+2015-04,United States of America,40290
+2015-05,Australia,18824
+2015-05,Belgium,1322
+2015-05,Cambodia,10627
+2015-05,Canada,7148
+2015-05,China,163195
+2015-05,Denmark,1344
+2015-05,Finland,626
+2015-05,France,17129
+2015-05,Germany,8218
+2015-05,Hong Kong,1287
+2015-05,Indonesia,5534
+2015-05,Italy,2263
+2015-05,Japan,49182
+2015-05,Lao People's Democratic Republic,3788
+2015-05,Malaysia,29294
+2015-05,Netherlands,3398
+2015-05,New Zealand,2284
+2015-05,Norway,741
+2015-05,Philippines,8591
+2015-05,Russian Federation,21943
+2015-05,Singapore,16585
+2015-05,South Korea,81557
+2015-05,Spain,2370
+2015-05,Sweden,1369
+2015-05,Switzerland,1744
+2015-05,Taiwan,34911
+2015-05,Thailand,14155
+2015-05,United Kingdom,13235
+2015-05,United States of America,30912
+2015-06,Australia,19032
+2015-06,Belgium,1010
+2015-06,Cambodia,11739
+2015-06,Canada,6280
+2015-06,China,113906
+2015-06,Denmark,1249
+2015-06,Finland,666
+2015-06,France,9572
+2015-06,Germany,6000
+2015-06,Hong Kong,1737
+2015-06,Indonesia,4439
+2015-06,Italy,1927
+2015-06,Japan,46555
+2015-06,Lao People's Democratic Republic,6673
+2015-06,Malaysia,35847
+2015-06,Netherlands,2596
+2015-06,New Zealand,2413
+2015-06,Norway,1243
+2015-06,Philippines,9027
+2015-06,Russian Federation,22558
+2015-06,Singapore,24054
+2015-06,South Korea,72927
+2015-06,Spain,2150
+2015-06,Sweden,1548
+2015-06,Switzerland,1178
+2015-06,Taiwan,33987
+2015-06,Thailand,13430
+2015-06,United Kingdom,12873
+2015-06,United States of America,40533
+2015-07,Australia,28965
+2015-07,Belgium,3306
+2015-07,Cambodia,10281
+2015-07,Canada,7757
+2015-07,China,136589
+2015-07,Denmark,3624
+2015-07,Finland,578
+2015-07,France,16618
+2015-07,Germany,8705
+2015-07,Hong Kong,1958
+2015-07,Indonesia,6535
+2015-07,Italy,2280
+2015-07,Japan,50221
+2015-07,Lao People's Democratic Republic,9019
+2015-07,Malaysia,21615
+2015-07,Netherlands,6877
+2015-07,New Zealand,3260
+2015-07,Norway,3842
+2015-07,Philippines,7563
+2015-07,Russian Federation,21688
+2015-07,Singapore,16177
+2015-07,South Korea,73108
+2015-07,Spain,3679
+2015-07,Sweden,2248
+2015-07,Switzerland,2757
+2015-07,Taiwan,46083
+2015-07,Thailand,11597
+2015-07,United Kingdom,16738
+2015-07,United States of America,45229
+2016-01,Australia,42452
+2016-01,Belgium,1957
+2016-01,Cambodia,13355
+2016-01,Canada,13383
+2016-01,China,147510
+2016-01,Denmark,3440
+2016-01,Finland,3025
+2016-01,France,20645
+2016-01,Germany,16488
+2016-01,Hong Kong,2851
+2016-01,Indonesia,6161
+2016-01,Italy,6111
+2016-01,Japan,63832
+2016-01,Lao People's Democratic Republic,7478
+2016-01,Malaysia,29310
+2016-01,Netherlands,5259
+2016-01,New Zealand,3717
+2016-01,Norway,2375
+2016-01,Philippines,8688
+2016-01,Russian Federation,42909
+2016-01,Singapore,21723
+2016-01,South Korea,149330
+2016-01,Spain,3244
+2016-01,Sweden,6728
+2016-01,Switzerland,3520
+2016-01,Taiwan,33683
+2016-01,Thailand,24863
+2016-01,United Kingdom,21851
+2016-01,United States of America,57378
+2016-02,Australia,26057
+2016-02,Belgium,2103
+2016-02,Cambodia,9868
+2016-02,Canada,14963
+2016-02,China,218947
+2016-02,Denmark,4405
+2016-02,Finland,2770
+2016-02,France,21867
+2016-02,Germany,17934
+2016-02,Hong Kong,2009
+2016-02,Indonesia,3843
+2016-02,Italy,4178
+2016-02,Japan,59291
+2016-02,Lao People's Democratic Republic,7614
+2016-02,Malaysia,30567
+2016-02,Netherlands,4843
+2016-02,New Zealand,2106
+2016-02,Norway,2821
+2016-02,Philippines,7615
+2016-02,Russian Federation,30989
+2016-02,Singapore,16307
+2016-02,South Korea,142234
+2016-02,Spain,2642
+2016-02,Sweden,4944
+2016-02,Switzerland,3325
+2016-02,Taiwan,52697
+2016-02,Thailand,18616
+2016-02,United Kingdom,22802
+2016-02,United States of America,60140
+2016-03,Australia,23475
+2016-03,Belgium,2357
+2016-03,Cambodia,18415
+2016-03,Canada,12333
+2016-03,China,214067
+2016-03,Denmark,3751
+2016-03,Finland,2287
+2016-03,France,25085
+2016-03,Germany,20268
+2016-03,Hong Kong,2327
+2016-03,Indonesia,6005
+2016-03,Italy,4679
+2016-03,Japan,69287
+2016-03,Lao People's Democratic Republic,11714
+2016-03,Malaysia,34488
+2016-03,Netherlands,4825
+2016-03,New Zealand,2061
+2016-03,Norway,2553
+2016-03,Philippines,8514
+2016-03,Russian Federation,34852
+2016-03,Singapore,21358
+2016-03,South Korea,116593
+2016-03,Spain,3301
+2016-03,Sweden,4912
+2016-03,Switzerland,3160
+2016-03,Taiwan,36285
+2016-03,Thailand,23311
+2016-03,United Kingdom,24019
+2016-03,United States of America,47220
+2016-04,Australia,31370
+2016-04,Belgium,2402
+2016-04,Cambodia,12594
+2016-04,Canada,10116
+2016-04,China,208926
+2016-04,Denmark,2581
+2016-04,Finland,911
+2016-04,France,25940
+2016-04,Germany,15750
+2016-04,Hong Kong,2971
+2016-04,Indonesia,5215
+2016-04,Italy,3850
+2016-04,Japan,53031
+2016-04,Lao People's Democratic Republic,9156
+2016-04,Malaysia,33341
+2016-04,Netherlands,4704
+2016-04,New Zealand,3383
+2016-04,Norway,1752
+2016-04,Philippines,9419
+2016-04,Russian Federation,35298
+2016-04,Singapore,19945
+2016-04,South Korea,111154
+2016-04,Spain,3174
+2016-04,Sweden,3185
+2016-04,Switzerland,3064
+2016-04,Taiwan,40053
+2016-04,Thailand,27574
+2016-04,United Kingdom,25903
+2016-04,United States of America,44786
+2016-05,Australia,20538
+2016-05,Belgium,1517
+2016-05,Cambodia,18625
+2016-05,Canada,8759
+2016-05,China,221800
+2016-05,Denmark,1615
+2016-05,Finland,588
+2016-05,France,18757
+2016-05,Germany,9799
+2016-05,Hong Kong,2896
+2016-05,Indonesia,6091
+2016-05,Italy,3079
+2016-05,Japan,56296
+2016-05,Lao People's Democratic Republic,11337
+2016-05,Malaysia,35821
+2016-05,Netherlands,4295
+2016-05,New Zealand,2484
+2016-05,Norway,926
+2016-05,Philippines,9235
+2016-05,Russian Federation,36171
+2016-05,Singapore,20370
+2016-05,South Korea,111952
+2016-05,Spain,3003
+2016-05,Sweden,1639
+2016-05,Switzerland,1930
+2016-05,Taiwan,39242
+2016-05,Thailand,25375
+2016-05,United Kingdom,17524
+2016-05,United States of America,36033
+2016-06,Australia,21168
+2016-06,Belgium,1017
+2016-06,Cambodia,12113
+2016-06,Canada,6883
+2016-06,China,193310
+2016-06,Denmark,1213
+2016-06,Finland,675
+2016-06,France,11727
+2016-06,Germany,6632
+2016-06,Hong Kong,3380
+2016-06,Indonesia,4686
+2016-06,Italy,2502
+2016-06,Japan,54149
+2016-06,Lao People's Democratic Republic,8496
+2016-06,Malaysia,36314
+2016-06,Netherlands,3266
+2016-06,New Zealand,3682
+2016-06,Norway,1307
+2016-06,Philippines,9003
+2016-06,Russian Federation,24145
+2016-06,Singapore,25009
+2016-06,South Korea,109806
+2016-06,Spain,2674
+2016-06,Sweden,1624
+2016-06,Switzerland,1101
+2016-06,Taiwan,40411
+2016-06,Thailand,16031
+2016-06,United Kingdom,16209
+2016-06,United States of America,47403
+2016-07,Australia,30651
+2016-07,Belgium,3658
+2016-07,Cambodia,21097
+2016-07,Canada,8911
+2016-07,China,263971
+2016-07,Denmark,4092
+2016-07,Finland,552
+2016-07,France,18193
+2016-07,Germany,10550
+2016-07,Hong Kong,2963
+2016-07,Indonesia,8261
+2016-07,Italy,3026
+2016-07,Japan,57389
+2016-07,Lao People's Democratic Republic,16137
+2016-07,Malaysia,26376
+2016-07,Netherlands,7347
+2016-07,New Zealand,5327
+2016-07,Norway,4028
+2016-07,Philippines,8695
+2016-07,Russian Federation,28883
+2016-07,Singapore,16938
+2016-07,South Korea,116960
+2016-07,Spain,4797
+2016-07,Sweden,2730
+2016-07,Switzerland,2851
+2016-07,Taiwan,53703
+2016-07,Thailand,17865
+2016-07,United Kingdom,19365
+2016-07,United States of America,51520
+2017-01,Australia,44143
+2017-01,Belgium,2498
+2017-01,Cambodia,18012
+2017-01,Canada,15712
+2017-01,China,247621
+2017-01,Denmark,3791
+2017-01,Finland,3570
+2017-01,France,21601
+2017-01,Germany,18415
+2017-01,Hong Kong,2984
+2017-01,Indonesia,6990
+2017-01,Italy,6812
+2017-01,Japan,66394
+2017-01,Lao People's Democratic Republic,10594
+2017-01,Malaysia,32471
+2017-01,Netherlands,6522
+2017-01,New Zealand,4490
+2017-01,Norway,2334
+2017-01,Philippines,9889
+2017-01,Russian Federation,58586
+2017-01,Singapore,22259
+2017-01,South Korea,171932
+2017-01,Spain,4127
+2017-01,Sweden,8567
+2017-01,Switzerland,3918
+2017-01,Taiwan,39495
+2017-01,Thailand,29015
+2017-01,United Kingdom,24094
+2017-01,United States of America,67262
+2017-02,Australia,27867
+2017-02,Belgium,2230
+2017-02,Cambodia,22861
+2017-02,Canada,17642
+2017-02,China,403663
+2017-02,Denmark,5165
+2017-02,Finland,2994
+2017-02,France,26536
+2017-02,Germany,21495
+2017-02,Hong Kong,3786
+2017-02,Indonesia,4970
+2017-02,Italy,5188
+2017-02,Japan,63279
+2017-02,Lao People's Democratic Republic,17661
+2017-02,Malaysia,38478
+2017-02,Netherlands,6074
+2017-02,New Zealand,2477
+2017-02,Norway,3102
+2017-02,Philippines,10845
+2017-02,Russian Federation,59463
+2017-02,Singapore,17695
+2017-02,South Korea,192572
+2017-02,Spain,3588
+2017-02,Sweden,6725
+2017-02,Switzerland,3598
+2017-02,Taiwan,64314
+2017-02,Thailand,25205
+2017-02,United Kingdom,26861
+2017-02,United States of America,63519
+2017-03,Australia,23146
+2017-03,Belgium,2385
+2017-03,Cambodia,15314
+2017-03,Canada,13762
+2017-03,China,297915
+2017-03,Denmark,3689
+2017-03,Finland,2419
+2017-03,France,26739
+2017-03,Germany,22013
+2017-03,Hong Kong,3004
+2017-03,Indonesia,6214
+2017-03,Italy,4987
+2017-03,Japan,71917
+2017-03,Lao People's Democratic Republic,7386
+2017-03,Malaysia,42150
+2017-03,Netherlands,5374
+2017-03,New Zealand,2554
+2017-03,Norway,1886
+2017-03,Philippines,8656
+2017-03,Russian Federation,57407
+2017-03,Singapore,22991
+2017-03,South Korea,162960
+2017-03,Spain,3624
+2017-03,Sweden,5703
+2017-03,Switzerland,2812
+2017-03,Taiwan,46333
+2017-03,Thailand,24371
+2017-03,United Kingdom,24061
+2017-03,United States of America,48880
+2017-04,Australia,35176
+2017-04,Belgium,2940
+2017-04,Cambodia,19002
+2017-04,Canada,12244
+2017-04,China,322453
+2017-04,Denmark,3614
+2017-04,Finland,1177
+2017-04,France,30446
+2017-04,Germany,20928
+2017-04,Hong Kong,3669
+2017-04,Indonesia,6573
+2017-04,Italy,4902
+2017-04,Japan,59981
+2017-04,Lao People's Democratic Republic,9939
+2017-04,Malaysia,39654
+2017-04,Netherlands,5313
+2017-04,New Zealand,4545
+2017-04,Norway,2417
+2017-04,Philippines,11937
+2017-04,Russian Federation,55490
+2017-04,Singapore,21971
+2017-04,South Korea,174373
+2017-04,Spain,4999
+2017-04,Sweden,3617
+2017-04,Switzerland,3660
+2017-04,Taiwan,48890
+2017-04,Thailand,30643
+2017-04,United Kingdom,31447
+2017-04,United States of America,48860
+2017-05,Australia,24191
+2017-05,Belgium,1557
+2017-05,Cambodia,19905
+2017-05,Canada,10324
+2017-05,China,300531
+2017-05,Denmark,1663
+2017-05,Finland,744
+2017-05,France,18295
+2017-05,Germany,11340
+2017-05,Hong Kong,3706
+2017-05,Indonesia,6913
+2017-05,Italy,3532
+2017-05,Japan,61443
+2017-05,Lao People's Democratic Republic,11975
+2017-05,Malaysia,43296
+2017-05,Netherlands,4628
+2017-05,New Zealand,3184
+2017-05,Norway,1013
+2017-05,Philippines,12426
+2017-05,Russian Federation,44469
+2017-05,Singapore,22116
+2017-05,South Korea,187359
+2017-05,Spain,3515
+2017-05,Sweden,1633
+2017-05,Switzerland,1886
+2017-05,Taiwan,48644
+2017-05,Thailand,24763
+2017-05,United Kingdom,19891
+2017-05,United States of America,39740
+2017-06,Australia,27003
+2017-06,Belgium,1309
+2017-06,Cambodia,19999
+2017-06,Canada,8253
+2017-06,China,315312
+2017-06,Denmark,1343
+2017-06,Finland,831
+2017-06,France,12529
+2017-06,Germany,8979
+2017-06,Hong Kong,4197
+2017-06,Indonesia,5592
+2017-06,Italy,2792
+2017-06,Japan,55830
+2017-06,Lao People's Democratic Republic,10732
+2017-06,Malaysia,35536
+2017-06,Netherlands,3966
+2017-06,New Zealand,3501
+2017-06,Norway,1405
+2017-06,Philippines,11486
+2017-06,Russian Federation,38087
+2017-06,Singapore,25414
+2017-06,South Korea,177061
+2017-06,Spain,3352
+2017-06,Sweden,1729
+2017-06,Switzerland,1469
+2017-06,Taiwan,50176
+2017-06,Thailand,18391
+2017-06,United Kingdom,18689
+2017-06,United States of America,51943
+2017-07,Australia,36451
+2017-07,Belgium,3855
+2017-07,Cambodia,15979
+2017-07,Canada,9491
+2017-07,China,329319
+2017-07,Denmark,4313
+2017-07,Finland,741
+2017-07,France,18211
+2017-07,Germany,11609
+2017-07,Hong Kong,3889
+2017-07,Indonesia,11072
+2017-07,Italy,3164
+2017-07,Japan,58614
+2017-07,Lao People's Democratic Republic,14691
+2017-07,Malaysia,32850
+2017-07,Netherlands,8046
+2017-07,New Zealand,6452
+2017-07,Norway,4620
+2017-07,Philippines,10228
+2017-07,Russian Federation,34655
+2017-07,Singapore,19183
+2017-07,South Korea,193569
+2017-07,Spain,5980
+2017-07,Sweden,2843
+2017-07,Switzerland,2828
+2017-07,Taiwan,59800
+2017-07,Thailand,17960
+2017-07,United Kingdom,21672
+2017-07,United States of America,56832
+2018-01,Australia,50123
+2018-01,Belgium,2580
+2018-01,Cambodia,24606
+2018-01,Canada,16340
+2018-01,China,418493
+2018-01,Denmark,4705
+2018-01,Finland,5266
+2018-01,France,26657
+2018-01,Germany,21037
+2018-01,Hong Kong,5575
+2018-01,India,12051
+2018-01,Indonesia,8264
+2018-01,Italy,8414
+2018-01,Japan,71832
+2018-01,Lao People's Democratic Republic,9303
+2018-01,Malaysia,44003
+2018-01,Netherlands,7014
+2018-01,New Zealand,5038
+2018-01,Norway,2748
+2018-01,Philippines,13137
+2018-01,Russian Federation,74332
+2018-01,Singapore,25811
+2018-01,South Korea,316314
+2018-01,Spain,4376
+2018-01,Sweden,10598
+2018-01,Switzerland,4215
+2018-01,Taiwan,48542
+2018-01,Thailand,32287
+2018-01,United Kingdom,28449
+2018-01,United States of America,72638
+2018-02,Australia,32211
+2018-02,Belgium,2554
+2018-02,Cambodia,21101
+2018-02,Canada,19207
+2018-02,China,483319
+2018-02,Denmark,5830
+2018-02,Finland,3766
+2018-02,France,27040
+2018-02,Germany,22765
+2018-02,Hong Kong,3712
+2018-02,India,9875
+2018-02,Indonesia,5863
+2018-02,Italy,6319
+2018-02,Japan,65865
+2018-02,Lao People's Democratic Republic,8826
+2018-02,Malaysia,42947
+2018-02,Netherlands,6531
+2018-02,New Zealand,2643
+2018-02,Norway,3346
+2018-02,Philippines,10113
+2018-02,Russian Federation,66766
+2018-02,Singapore,19736
+2018-02,South Korea,303391
+2018-02,Spain,3550
+2018-02,Sweden,8879
+2018-02,Switzerland,3409
+2018-02,Taiwan,62966
+2018-02,Thailand,26134
+2018-02,United Kingdom,28505
+2018-02,United States of America,75168
+2018-03,Australia,26196
+2018-03,Belgium,2438
+2018-03,Cambodia,22022
+2018-03,Canada,15379
+2018-03,China,454622
+2018-03,Denmark,4768
+2018-03,Finland,3265
+2018-03,France,30176
+2018-03,Germany,24203
+2018-03,Hong Kong,4878
+2018-03,India,9922
+2018-03,Indonesia,6665
+2018-03,Italy,6060
+2018-03,Japan,77730
+2018-03,Lao People's Democratic Republic,16096
+2018-03,Malaysia,42328
+2018-03,Netherlands,6091
+2018-03,New Zealand,2573
+2018-03,Norway,2220
+2018-03,Philippines,10518
+2018-03,Russian Federation,62023
+2018-03,Singapore,22248
+2018-03,South Korea,272757
+2018-03,Spain,3871
+2018-03,Sweden,5847
+2018-03,Switzerland,2972
+2018-03,Taiwan,52862
+2018-03,Thailand,25016
+2018-03,United Kingdom,28854
+2018-03,United States of America,55881
+2018-04,Australia,39042
+2018-04,Belgium,3535
+2018-04,Cambodia,17976
+2018-04,Canada,14517
+2018-04,China,419590
+2018-04,Denmark,3820
+2018-04,Finland,2149
+2018-04,France,30495
+2018-04,Germany,21463
+2018-04,Hong Kong,4048
+2018-04,India,11597
+2018-04,Indonesia,7522
+2018-04,Italy,5411
+2018-04,Japan,64375
+2018-04,Lao People's Democratic Republic,8118
+2018-04,Malaysia,48319
+2018-04,Netherlands,5819
+2018-04,New Zealand,4743
+2018-04,Norway,2526
+2018-04,Philippines,12948
+2018-04,Russian Federation,58815
+2018-04,Singapore,23905
+2018-04,South Korea,281385
+2018-04,Spain,5437
+2018-04,Sweden,3424
+2018-04,Switzerland,3672
+2018-04,Taiwan,63046
+2018-04,Thailand,35828
+2018-04,United Kingdom,32442
+2018-04,United States of America,59778
+2018-05,Australia,26923
+2018-05,Belgium,1762
+2018-05,Cambodia,19013
+2018-05,Canada,11302
+2018-05,China,377278
+2018-05,Denmark,2035
+2018-05,Finland,719
+2018-05,France,25466
+2018-05,Germany,12712
+2018-05,Hong Kong,3943
+2018-05,India,10414
+2018-05,Indonesia,6601
+2018-05,Italy,3874
+2018-05,Japan,64462
+2018-05,Lao People's Democratic Republic,10656
+2018-05,Malaysia,42871
+2018-05,Netherlands,5617
+2018-05,New Zealand,3184
+2018-05,Norway,1038
+2018-05,Philippines,12707
+2018-05,Russian Federation,38811
+2018-05,Singapore,21118
+2018-05,South Korea,267909
+2018-05,Spain,3868
+2018-05,Sweden,1797
+2018-05,Switzerland,2275
+2018-05,Taiwan,56134
+2018-05,Thailand,26954
+2018-05,United Kingdom,20203
+2018-05,United States of America,47200
+2018-06,Australia,26330
+2018-06,Belgium,1345
+2018-06,Cambodia,14672
+2018-06,Canada,8420
+2018-06,China,415540
+2018-06,Denmark,1483
+2018-06,Finland,1003
+2018-06,France,13464
+2018-06,Germany,9381
+2018-06,Hong Kong,5413
+2018-06,India,10532
+2018-06,Indonesia,9671
+2018-06,Italy,3105
+2018-06,Japan,59748
+2018-06,Lao People's Democratic Republic,7422
+2018-06,Malaysia,44641
+2018-06,Netherlands,4202
+2018-06,New Zealand,3470
+2018-06,Norway,1491
+2018-06,Philippines,13589
+2018-06,Russian Federation,37646
+2018-06,Singapore,27856
+2018-06,South Korea,271848
+2018-06,Spain,4218
+2018-06,Sweden,1974
+2018-06,Switzerland,1513
+2018-06,Taiwan,55406
+2018-06,Thailand,22540
+2018-06,United Kingdom,19595
+2018-06,United States of America,58976
+2018-07,Australia,36969
+2018-07,Belgium,4310
+2018-07,Cambodia,12303
+2018-07,Canada,9749
+2018-07,China,404508
+2018-07,Denmark,4843
+2018-07,Finland,696
+2018-07,France,19646
+2018-07,Germany,13976
+2018-07,Hong Kong,4826
+2018-07,India,9451
+2018-07,Indonesia,7134
+2018-07,Italy,3412
+2018-07,Japan,60367
+2018-07,Lao People's Democratic Republic,15589
+2018-07,Malaysia,31079
+2018-07,Netherlands,8421
+2018-07,New Zealand,6364
+2018-07,Norway,4815
+2018-07,Philippines,11219
+2018-07,Russian Federation,34767
+2018-07,Singapore,18145
+2018-07,South Korea,252396
+2018-07,Spain,6571
+2018-07,Sweden,2850
+2018-07,Switzerland,2986
+2018-07,Taiwan,66250
+2018-07,Thailand,18417
+2018-07,United Kingdom,21879
+2018-07,United States of America,63851
+2019-01,Australia,50337
+2019-01,Belgium,2564
+2019-01,Cambodia,9521
+2019-01,Canada,17358
+2019-01,China,373537
+2019-01,Denmark,5460
+2019-01,Finland,4649
+2019-01,France,26992
+2019-01,Germany,21850
+2019-01,Hong Kong,6324
+2019-01,India,14329
+2019-01,Indonesia,9813
+2019-01,Italy,8741
+2019-01,Japan,79981
+2019-01,Lao People's Democratic Republic,6788
+2019-01,Malaysia,48147
+2019-01,Netherlands,6870
+2019-01,New Zealand,4970
+2019-01,Norway,3063
+2019-01,Philippines,15764
+2019-01,Russian Federation,75964
+2019-01,Singapore,25167
+2019-01,South Korea,388977
+2019-01,Spain,4595
+2019-01,Sweden,11239
+2019-01,Switzerland,4544
+2019-01,Taiwan,63789
+2019-01,Thailand,45105
+2019-01,United Kingdom,29545
+2019-01,United States of America,80658
+2019-02,Australia,30286
+2019-02,Belgium,2537
+2019-02,Cambodia,13696
+2019-02,Canada,19195
+2019-02,China,516351
+2019-02,Denmark,6238
+2019-02,Finland,3864
+2019-02,France,28145
+2019-02,Germany,23977
+2019-02,Hong Kong,4660
+2019-02,India,11374
+2019-02,Indonesia,6174
+2019-02,Italy,6799
+2019-02,Japan,70841
+2019-02,Lao People's Democratic Republic,11913
+2019-02,Malaysia,43369
+2019-02,Netherlands,7079
+2019-02,New Zealand,2725
+2019-02,Norway,3831
+2019-02,Philippines,12934
+2019-02,Russian Federation,70774
+2019-02,Singapore,18441
+2019-02,South Korea,383205
+2019-02,Spain,3828
+2019-02,Sweden,10087
+2019-02,Switzerland,3965
+2019-02,Taiwan,77916
+2019-02,Thailand,34877
+2019-02,United Kingdom,30967
+2019-02,United States of America,77423
+2019-03,Australia,27899
+2019-03,Belgium,2549
+2019-03,Cambodia,10774
+2019-03,Canada,17212
+2019-03,China,391185
+2019-03,Denmark,5264
+2019-03,Finland,3081
+2019-03,France,32185
+2019-03,Germany,26384
+2019-03,Hong Kong,5467
+2019-03,India,12595
+2019-03,Indonesia,8379
+2019-03,Italy,7387
+2019-03,Japan,82533
+2019-03,Lao People's Democratic Republic,7869
+2019-03,Malaysia,52113
+2019-03,Netherlands,6746
+2019-03,New Zealand,2856
+2019-03,Norway,2494
+2019-03,Philippines,13430
+2019-03,Russian Federation,68880
+2019-03,Singapore,24651
+2019-03,South Korea,335612
+2019-03,Spain,4115
+2019-03,Sweden,6643
+2019-03,Switzerland,3298
+2019-03,Taiwan,65390
+2019-03,Thailand,44606
+2019-03,United Kingdom,29367
+2019-03,United States of America,61619
+2019-04,Australia,38679
+2019-04,Belgium,3530
+2019-04,Cambodia,12844
+2019-04,Canada,14364
+2019-04,China,426746
+2019-04,Denmark,4483
+2019-04,Finland,1337
+2019-04,France,32159
+2019-04,Germany,23482
+2019-04,Hong Kong,2949
+2019-04,India,13114
+2019-04,Indonesia,12174
+2019-04,Italy,6035
+2019-04,Japan,69449
+2019-04,Lao People's Democratic Republic,7763
+2019-04,Malaysia,61834
+2019-04,Netherlands,6166
+2019-04,New Zealand,5520
+2019-04,Norway,2646
+2019-04,Philippines,16004
+2019-04,Russian Federation,58164
+2019-04,Singapore,26242
+2019-04,South Korea,338085
+2019-04,Spain,5584
+2019-04,Sweden,3350
+2019-04,Switzerland,4187
+2019-04,Taiwan,77215
+2019-04,Thailand,50189
+2019-04,United Kingdom,34169
+2019-04,United States of America,61296
+2019-05,Australia,28415
+2019-05,Belgium,1778
+2019-05,Cambodia,8345
+2019-05,Canada,12365
+2019-05,China,427788
+2019-05,Denmark,1910
+2019-05,Finland,844
+2019-05,France,22459
+2019-05,Germany,12742
+2019-05,Hong Kong,3171
+2019-05,India,12376
+2019-05,Indonesia,7336
+2019-05,Italy,4532
+2019-05,Japan,86123
+2019-05,Lao People's Democratic Republic,8194
+2019-05,Malaysia,47006
+2019-05,Netherlands,5631
+2019-05,New Zealand,3805
+2019-05,Norway,1030
+2019-05,Philippines,14789
+2019-05,Russian Federation,45944
+2019-05,Singapore,22102
+2019-05,South Korea,318326
+2019-05,Spain,4511
+2019-05,Sweden,1774
+2019-05,Switzerland,2039
+2019-05,Taiwan,72921
+2019-05,Thailand,40899
+2019-05,United Kingdom,22235
+2019-05,United States of America,48237
+2019-06,Australia,24700
+2019-06,Belgium,1509
+2019-06,Cambodia,3335
+2019-06,Canada,8971
+2019-06,China,347724
+2019-06,Denmark,1446
+2019-06,Finland,760
+2019-06,France,13179
+2019-06,Germany,10029
+2019-06,Hong Kong,2735
+2019-06,India,13024
+2019-06,Indonesia,10494
+2019-06,Italy,3228
+2019-06,Japan,66772
+2019-06,Lao People's Democratic Republic,4014
+2019-06,Malaysia,46016
+2019-06,Netherlands,4591
+2019-06,New Zealand,3296
+2019-06,Norway,1445
+2019-06,Philippines,14990
+2019-06,Russian Federation,39055
+2019-06,Singapore,27686
+2019-06,South Korea,314397
+2019-06,Spain,4202
+2019-06,Sweden,1790
+2019-06,Switzerland,1336
+2019-06,Taiwan,73083
+2019-06,Thailand,29642
+2019-06,United Kingdom,18770
+2019-06,United States of America,63851
+2019-07,Australia,34731
+2019-07,Belgium,4833
+2019-07,Cambodia,5289
+2019-07,Canada,10951
+2019-07,China,406926
+2019-07,Denmark,5072
+2019-07,Finland,779
+2019-07,France,19558
+2019-07,Germany,14764
+2019-07,Hong Kong,2397
+2019-07,India,11753
+2019-07,Indonesia,8317
+2019-07,Italy,3457
+2019-07,Japan,68782
+2019-07,Lao People's Democratic Republic,5696
+2019-07,Malaysia,38849
+2019-07,Netherlands,8632
+2019-07,New Zealand,5302
+2019-07,Norway,4801
+2019-07,Philippines,12789
+2019-07,Russian Federation,38030
+2019-07,Singapore,21192
+2019-07,South Korea,321493
+2019-07,Spain,7752
+2019-07,Sweden,2881
+2019-07,Switzerland,2925
+2019-07,Taiwan,86701
+2019-07,Thailand,32043
+2019-07,United Kingdom,22178
+2019-07,United States of America,72627
+2020-01,Australia,53891
+2020-01,Belgium,2782
+2020-01,Cambodia,40930
+2020-01,Canada,19692
+2020-01,China,644702
+2020-01,Denmark,5178
+2020-01,Finland,4401
+2020-01,France,28419
+2020-01,Germany,23951
+2020-01,Hong Kong,1505
+2020-01,India,24979
+2020-01,Indonesia,12378
+2020-01,Italy,10018
+2020-01,Japan,89082
+2020-01,Lao People's Democratic Republic,9672
+2020-01,Malaysia,50801
+2020-01,Netherlands,7129
+2020-01,New Zealand,5508
+2020-01,Norway,3656
+2020-01,Philippines,16419
+2020-01,Russian Federation,88228
+2020-01,Singapore,26884
+2020-01,South Korea,468423
+2020-01,Spain,5099
+2020-01,Sweden,10625
+2020-01,Switzerland,5039
+2020-01,Taiwan,76114
+2020-01,Thailand,63182
+2020-01,United Kingdom,32114
+2020-01,United States of America,96548
+2020-02,Australia,24515
+2020-02,Belgium,2699
+2020-02,Cambodia,44280
+2020-02,Canada,16049
+2020-02,China,193923
+2020-02,Denmark,6197
+2020-02,Finland,3852
+2020-02,France,28940
+2020-02,Germany,22131
+2020-02,Hong Kong,1072
+2020-02,India,12437
+2020-02,Indonesia,5611
+2020-02,Italy,6215
+2020-02,Japan,73879
+2020-02,Lao People's Democratic Republic,14747
+2020-02,Malaysia,42199
+2020-02,Netherlands,6941
+2020-02,New Zealand,2375
+2020-02,Norway,3656
+2020-02,Philippines,12886
+2020-02,Russian Federation,84516
+2020-02,Singapore,14959
+2020-02,South Korea,321967
+2020-02,Spain,4099
+2020-02,Sweden,7480
+2020-02,Switzerland,3801
+2020-02,Taiwan,93758
+2020-02,Thailand,44372
+2020-02,United Kingdom,31446
+2020-02,United States of America,58505
+2020-03,Australia,13821
+2020-03,Belgium,1971
+2020-03,Cambodia,35220
+2020-03,Canada,6066
+2020-03,China,33194
+2020-03,Denmark,3069
+2020-03,Finland,1741
+2020-03,France,17121
+2020-03,Germany,15383
+2020-03,Hong Kong,1203
+2020-03,Indonesia,3457
+2020-03,Italy,1541
+2020-03,Japan,37385
+2020-03,Lao People's Democratic Republic,12391
+2020-03,Malaysia,23221
+2020-03,Netherlands,4195
+2020-03,New Zealand,1587
+2020-03,Norway,1646
+2020-03,Philippines,7664
+2020-03,Russian Federation,72222
+2020-03,Singapore,9883
+2020-03,South Korea,28699
+2020-03,Spain,2585
+2020-03,Sweden,3752
+2020-03,Switzerland,2005
+2020-03,Taiwan,22344
+2020-03,Thailand,18171
+2020-03,United Kingdom,17873
+2020-03,United States of America,17653
+2022-01,Australia,214
+2022-01,Belgium,50
+2022-01,Cambodia,143
+2022-01,Canada,132
+2022-01,China,3048
+2022-01,Denmark,70
+2022-01,Finland,9
+2022-01,France,322
+2022-01,Germany,273
+2022-01,Hong Kong,1
+2022-01,Indonesia,82
+2022-01,Italy,144
+2022-01,Japan,1168
+2022-01,Lao People's Democratic Republic,1702
+2022-01,Malaysia,177
+2022-01,Netherlands,103
+2022-01,New Zealand,21
+2022-01,Norway,33
+2022-01,Philippines,176
+2022-01,Russian Federation,1712
+2022-01,Singapore,116
+2022-01,South Korea,3564
+2022-01,Spain,93
+2022-01,Sweden,24
+2022-01,Switzerland,23
+2022-01,Taiwan,1495
+2022-01,Thailand,360
+2022-01,United Kingdom,391
+2022-01,United States of America,883
+2022-02,Australia,1080
+2022-02,Belgium,77
+2022-02,Cambodia,728
+2022-02,Canada,430
+2022-02,China,4031
+2022-02,Denmark,71
+2022-02,Finland,24
+2022-02,France,629
+2022-02,Germany,759
+2022-02,Hong Kong,2
+2022-02,Indonesia,100
+2022-02,Italy,143
+2022-02,Japan,1587
+2022-02,Lao People's Democratic Republic,1817
+2022-02,Malaysia,458
+2022-02,Netherlands,164
+2022-02,New Zealand,40
+2022-02,Philippines,218
+2022-02,Russian Federation,2107
+2022-02,Singapore,310
+2022-02,South Korea,5079
+2022-02,Spain,129
+2022-02,Sweden,81
+2022-02,Switzerland,73
+2022-02,Taiwan,2899
+2022-02,Thailand,477
+2022-02,United Kingdom,481
+2022-02,United States of America,2966
+2022-03,Australia,1695
+2022-03,Belgium,89
+2022-03,Cambodia,1090
+2022-03,Canada,919
+2022-03,China,7872
+2022-03,Denmark,149
+2022-03,Finland,36
+2022-03,France,688
+2022-03,Germany,1204
+2022-03,Hong Kong,3
+2022-03,Indonesia,166
+2022-03,Italy,149
+2022-03,Japan,1756
+2022-03,Lao People's Democratic Republic,1237
+2022-03,Malaysia,607
+2022-03,Netherlands,269
+2022-03,New Zealand,49
+2022-03,Norway,125
+2022-03,Philippines,389
+2022-03,Russian Federation,1673
+2022-03,Singapore,586
+2022-03,South Korea,5974
+2022-03,Spain,76
+2022-03,Sweden,133
+2022-03,Switzerland,113
+2022-03,Taiwan,4019
+2022-03,Thailand,661
+2022-03,United Kingdom,734
+2022-03,United States of America,6302
+2022-04,Australia,5716
+2022-04,Belgium,379
+2022-04,Cambodia,8316
+2022-04,Canada,1935
+2022-04,China,7623
+2022-04,Denmark,614
+2022-04,Finland,161
+2022-04,France,3315
+2022-04,Germany,3672
+2022-04,Hong Kong,3
+2022-04,Indonesia,650
+2022-04,Italy,750
+2022-04,Japan,4258
+2022-04,Lao People's Democratic Republic,1996
+2022-04,Malaysia,2682
+2022-04,Netherlands,936
+2022-04,New Zealand,303
+2022-04,Norway,463
+2022-04,Philippines,1273
+2022-04,Russian Federation,1077
+2022-04,Singapore,5279
+2022-04,South Korea,14025
+2022-04,Spain,539
+2022-04,Sweden,539
+2022-04,Switzerland,441
+2022-04,Taiwan,4375
+2022-04,Thailand,2407
+2022-04,United Kingdom,3699
+2022-04,United States of America,12998
+2022-05,Australia,8159
+2022-05,Belgium,543
+2022-05,Cambodia,13674
+2022-05,Canada,2885
+2022-05,China,9559
+2022-05,Denmark,773
+2022-05,Finland,245
+2022-05,France,5943
+2022-05,Germany,4465
+2022-05,Hong Kong,4
+2022-05,Indonesia,2797
+2022-05,Italy,1219
+2022-05,Japan,7823
+2022-05,Lao People's Democratic Republic,4540
+2022-05,Malaysia,7578
+2022-05,Netherlands,1671
+2022-05,New Zealand,490
+2022-05,Norway,515
+2022-05,Philippines,3127
+2022-05,Russian Federation,1453
+2022-05,Singapore,11030
+2022-05,South Korea,27859
+2022-05,Spain,966
+2022-05,Sweden,574
+2022-05,Switzerland,680
+2022-05,Taiwan,4758
+2022-05,Thailand,7015
+2022-05,United Kingdom,5622
+2022-05,United States of America,17828
+2022-06,Australia,11515
+2022-06,Belgium,641
+2022-06,Cambodia,11919
+2022-06,Canada,2990
+2022-06,China,10047
+2022-06,Denmark,741
+2022-06,Finland,433
+2022-06,France,5162
+2022-06,Germany,5221
+2022-06,Hong Kong,10
+2022-06,Indonesia,2342
+2022-06,Italy,1297
+2022-06,Japan,11649
+2022-06,Lao People's Democratic Republic,7401
+2022-06,Malaysia,10758
+2022-06,Netherlands,1877
+2022-06,New Zealand,683
+2022-06,Norway,659
+2022-06,Philippines,3414
+2022-06,Russian Federation,1730
+2022-06,Singapore,16384
+2022-06,South Korea,51363
+2022-06,Spain,1126
+2022-06,Sweden,691
+2022-06,Switzerland,633
+2022-06,Taiwan,6737
+2022-06,Thailand,11116
+2022-06,United Kingdom,6534
+2022-06,United States of America,27088
+2022-07,Australia,17201
+2022-07,Belgium,1528
+2022-07,Cambodia,24576
+2022-07,Canada,3884
+2022-07,China,10854
+2022-07,Denmark,1759
+2022-07,Finland,562
+2022-07,France,7409
+2022-07,Germany,8029
+2022-07,Hong Kong,8
+2022-07,Indonesia,3609
+2022-07,Italy,1555
+2022-07,Japan,17715
+2022-07,Lao People's Democratic Republic,11790
+2022-07,Malaysia,13603
+2022-07,Netherlands,2712
+2022-07,New Zealand,1131
+2022-07,Norway,1728
+2022-07,Philippines,4388
+2022-07,Russian Federation,2113
+2022-07,Singapore,16757
+2022-07,South Korea,88335
+2022-07,Spain,2021
+2022-07,Sweden,1068
+2022-07,Switzerland,1362
+2022-07,Taiwan,12465
+2022-07,Thailand,17643
+2022-07,United Kingdom,8996
+2022-07,United States of America,34832
+2023-01,Australia,44225
+2023-01,Belgium,1742
+2023-01,Cambodia,34046
+2023-01,Canada,13528
+2023-01,China,15875
+2023-01,Denmark,2685
+2023-01,Finland,1226
+2023-01,France,16698
+2023-01,Germany,17410
+2023-01,Hong Kong,9
+2023-01,India,35529
+2023-01,Indonesia,8157
+2023-01,Italy,4691
+2023-01,Japan,34170
+2023-01,Lao People's Democratic Republic,7267
+2023-01,Malaysia,37267
+2023-01,Netherlands,5156
+2023-01,Norway,2209
+2023-01,Philippines,11714
+2023-01,Russian Federation,12812
+2023-01,Singapore,31554
+2023-01,South Korea,258946
+2023-01,Spain,3377
+2023-01,Sweden,3381
+2023-01,Switzerland,2676
+2023-01,Taiwan,31334
+2023-01,Thailand,54985
+2023-01,United Kingdom,21509
+2023-01,United States of America,77897
+2023-02,Australia,27388
+2023-02,Belgium,1838
+2023-02,Cambodia,35771
+2023-02,Canada,16163
+2023-02,China,55029
+2023-02,Denmark,3500
+2023-02,Finland,1235
+2023-02,France,19255
+2023-02,Germany,17911
+2023-02,Hong Kong,17
+2023-02,India,23319
+2023-02,Indonesia,5873
+2023-02,Italy,4149
+2023-02,Japan,36344
+2023-02,Lao People's Democratic Republic,14476
+2023-02,Malaysia,34992
+2023-02,Netherlands,5359
+2023-02,New Zealand,2237
+2023-02,Norway,2357
+2023-02,Philippines,11091
+2023-02,Russian Federation,11558
+2023-02,Singapore,18973
+2023-02,South Korea,301343
+2023-02,Spain,3160
+2023-02,Sweden,3034
+2023-02,Switzerland,2556
+2023-02,Taiwan,58822
+2023-02,Thailand,42219
+2023-02,United Kingdom,22622
+2023-02,United States of America,69648
+2023-03,Australia,25294
+2023-03,Belgium,2337
+2023-03,Cambodia,25699
+2023-03,Canada,14124
+2023-03,China,69329
+2023-03,Denmark,3210
+2023-03,Finland,891
+2023-03,France,21013
+2023-03,Germany,20290
+2023-03,Hong Kong,27
+2023-03,India,24209
+2023-03,Indonesia,6881
+2023-03,Italy,4814
+2023-03,Japan,46702
+2023-03,Lao People's Democratic Republic,6471
+2023-03,Malaysia,43044
+2023-03,Netherlands,5347
+2023-03,New Zealand,2098
+2023-03,Norway,1787
+2023-03,Philippines,9523
+2023-03,Russian Federation,10751
+2023-03,Singapore,25951
+2023-03,South Korea,250649
+2023-03,Spain,3738
+2023-03,Sweden,2474
+2023-03,Switzerland,2330
+2023-03,Taiwan,41752
+2023-03,Thailand,47927
+2023-03,United Kingdom,23071
+2023-03,United States of America,59296
+2023-04,Australia,33802
+2023-04,Belgium,2563
+2023-04,Cambodia,39985
+2023-04,Canada,12169
+2023-04,China,111903
+2023-04,Denmark,3371
+2023-04,Finland,721
+2023-04,France,20933
+2023-04,Germany,21148
+2023-04,Hong Kong,30
+2023-04,India,28982
+2023-04,Indonesia,6089
+2023-04,Italy,4407
+2023-04,Japan,43005
+2023-04,Lao People's Democratic Republic,8767
+2023-04,Malaysia,34480
+2023-04,Netherlands,5330
+2023-04,New Zealand,3503
+2023-04,Norway,1782
+2023-04,Philippines,12829
+2023-04,Russian Federation,10242
+2023-04,Singapore,24538
+2023-04,South Korea,259357
+2023-04,Spain,4821
+2023-04,Sweden,2128
+2023-04,Switzerland,3112
+2023-04,Taiwan,61606
+2023-04,Thailand,54503
+2023-04,United Kingdom,28003
+2023-04,United States of America,56240
+2023-05,Australia,26838
+2023-05,Belgium,1690
+2023-05,Cambodia,31828
+2023-05,Canada,10282
+2023-05,China,146755
+2023-05,Denmark,1748
+2023-05,Finland,680
+2023-05,France,17914
+2023-05,Germany,12477
+2023-05,Hong Kong,8
+2023-05,India,29069
+2023-05,Indonesia,10010
+2023-05,Italy,3964
+2023-05,Japan,43854
+2023-05,Lao People's Democratic Republic,7757
+2023-05,Malaysia,41718
+2023-05,Netherlands,5007
+2023-05,New Zealand,3018
+2023-05,Norway,884
+2023-05,Philippines,10610
+2023-05,Russian Federation,8929
+2023-05,Singapore,21737
+2023-05,South Korea,247538
+2023-05,Spain,4158
+2023-05,Sweden,1348
+2023-05,Switzerland,1784
+2023-05,Taiwan,58467
+2023-05,Thailand,36778
+2023-05,United Kingdom,18608
+2023-05,United States of America,43926
+2023-06,Australia,27252
+2023-06,Belgium,1138
+2023-06,Cambodia,30487
+2023-06,Canada,7107
+2023-06,China,158260
+2023-06,Denmark,1360
+2023-06,Finland,721
+2023-06,France,10599
+2023-06,Germany,9938
+2023-06,Hong Kong,5
+2023-06,India,40064
+2023-06,Indonesia,7471
+2023-06,Italy,2733
+2023-06,Japan,37012
+2023-06,Lao People's Democratic Republic,9709
+2023-06,Malaysia,40415
+2023-06,Netherlands,3656
+2023-06,New Zealand,2839
+2023-06,Norway,1330
+2023-06,Philippines,11677
+2023-06,Russian Federation,7676
+2023-06,Singapore,32202
+2023-06,South Korea,284350
+2023-06,Spain,3428
+2023-06,Sweden,1454
+2023-06,Switzerland,1293
+2023-06,Taiwan,70508
+2023-06,Thailand,29551
+2023-06,United Kingdom,15702
+2023-06,United States of America,66778
+2023-07,Australia,36608
+2023-07,Belgium,2891
+2023-07,Cambodia,27512
+2023-07,Canada,7524
+2023-07,China,180426
+2023-07,Denmark,3428
+2023-07,Finland,586
+2023-07,France,14402
+2023-07,Germany,12653
+2023-07,Hong Kong,4
+2023-07,India,32228
+2023-07,Indonesia,8720
+2023-07,Italy,3242
+2023-07,Japan,42581
+2023-07,Lao People's Democratic Republic,15080
+2023-07,Malaysia,30516
+2023-07,Netherlands,5286
+2023-07,New Zealand,3737
+2023-07,Norway,4666
+2023-07,Philippines,13319
+2023-07,Russian Federation,7925
+2023-07,Singapore,24591
+2023-07,South Korea,286126
+2023-07,Spain,5242
+2023-07,Sweden,2411
+2023-07,Switzerland,2215
+2023-07,Taiwan,92589
+2023-07,Thailand,23917
+2023-07,United Kingdom,17978
+2023-07,United States of America,71661
+2024-01,Australia,62100
+2024-01,Belgium,2495
+2024-01,Cambodia,37279
+2024-01,Canada,14156
+2024-01,China,242181
+2024-01,Denmark,4158
+2024-01,France,24123
+2024-01,Germany,22778
+2024-01,India,46136
+2024-01,Indonesia,17923
+2024-01,Italy,9430
+2024-01,Japan,60630
+2024-01,Lao People's Democratic Republic,7560
+2024-01,Malaysia,48504
+2024-01,Netherlands,7017
+2024-01,New Zealand,5220
+2024-01,Norway,2775
+2024-01,Philippines,16877
+2024-01,Poland,6710
+2024-01,Russian Federation,19614
+2024-01,Singapore,34391
+2024-01,South Korea,417576
+2024-01,Spain,5209
+2024-01,Sweden,4588
+2024-01,Switzerland,3658
+2024-01,Taiwan,84213
+2024-01,Thailand,40535
+2024-01,United Kingdom,29374
+2024-01,United States of America,75651
+2024-02,Australia,35305
+2024-02,Belgium,2396
+2024-02,Cambodia,41832
+2024-02,Canada,18138
+2024-02,China,295480
+2024-02,Denmark,4958
+2024-02,France,24287
+2024-02,Germany,25635
+2024-02,India,33156
+2024-02,Indonesia,12417
+2024-02,Italy,6681
+2024-02,Japan,46742
+2024-02,Lao People's Democratic Republic,14547
+2024-02,Malaysia,43014
+2024-02,Netherlands,7117
+2024-02,New Zealand,2677
+2024-02,Norway,3674
+2024-02,Philippines,15448
+2024-02,Poland,7120
+2024-02,Russian Federation,19054
+2024-02,Singapore,21862
+2024-02,South Korea,426506
+2024-02,Spain,4498
+2024-02,Sweden,4517
+2024-02,Switzerland,3497
+2024-02,Taiwan,114115
+2024-02,Thailand,35057
+2024-02,United Kingdom,29127
+2024-02,United States of America,80129
+2024-03,Australia,35137
+2024-03,Belgium,3384
+2024-03,Cambodia,34635
+2024-03,Canada,17649
+2024-03,China,352173
+2024-03,Denmark,4638
+2024-03,France,31396
+2024-03,Germany,29674
+2024-03,India,36981
+2024-03,Indonesia,15351
+2024-03,Italy,8492
+2024-03,Japan,71663
+2024-03,Lao People's Democratic Republic,11185
+2024-03,Malaysia,52195
+2024-03,Netherlands,7844
+2024-03,New Zealand,2958
+2024-03,Norway,2820
+2024-03,Philippines,17023
+2024-03,Poland,6449
+2024-03,Russian Federation,20558
+2024-03,Singapore,26832
+2024-03,South Korea,388795
+2024-03,Spain,5671
+2024-03,Sweden,3574
+2024-03,Switzerland,3275
+2024-03,Taiwan,101502
+2024-03,Thailand,42950
+2024-03,United Kingdom,33497
+2024-03,United States of America,76578
+2024-04,Australia,47585
+2024-04,Belgium,3305
+2024-04,Cambodia,41906
+2024-04,Canada,15444
+2024-04,China,357907
+2024-04,Denmark,4153
+2024-04,France,30587
+2024-04,Germany,27004
+2024-04,India,41760
+2024-04,Indonesia,19126
+2024-04,Italy,7442
+2024-04,Japan,56834
+2024-04,Lao People's Democratic Republic,10063
+2024-04,Malaysia,38112
+2024-04,Netherlands,6596
+2024-04,New Zealand,5108
+2024-04,Norway,2107
+2024-04,Philippines,19199
+2024-04,Poland,3017
+2024-04,Russian Federation,19700
+2024-04,Singapore,28050
+2024-04,South Korea,367939
+2024-04,Spain,7044
+2024-04,Sweden,2516
+2024-04,Switzerland,3637
+2024-04,Taiwan,118812
+2024-04,Thailand,45248
+2024-04,United Kingdom,36737
+2024-04,United States of America,69250
+2024-05,Australia,33121
+2024-05,Belgium,1904
+2024-05,Cambodia,41239
+2024-05,Canada,11979
+2024-05,China,357190
+2024-05,Denmark,1827
+2024-05,France,23303
+2024-05,Germany,15043
+2024-05,India,38324
+2024-05,Indonesia,15790
+2024-05,Italy,6014
+2024-05,Japan,53330
+2024-05,Lao People's Democratic Republic,10234
+2024-05,Malaysia,32377
+2024-05,Netherlands,6245
+2024-05,New Zealand,3461
+2024-05,Norway,947
+2024-05,Philippines,17389
+2024-05,Poland,2237
+2024-05,Russian Federation,16105
+2024-05,Singapore,24036
+2024-05,South Korea,351246
+2024-05,Spain,5588
+2024-05,Sweden,1461
+2024-05,Switzerland,2245
+2024-05,Taiwan,110834
+2024-05,Thailand,33882
+2024-05,United Kingdom,21079
+2024-05,United States of America,48636
+2024-06,Australia,30169
+2024-06,Belgium,1194
+2024-06,Cambodia,34600
+2024-06,Canada,7553
+2024-06,China,286165
+2024-06,Denmark,1314
+2024-06,France,12146
+2024-06,Germany,10751
+2024-06,India,43045
+2024-06,Indonesia,15502
+2024-06,Italy,3331
+2024-06,Japan,46439
+2024-06,Lao People's Democratic Republic,11701
+2024-06,Malaysia,39385
+2024-06,Netherlands,3821
+2024-06,New Zealand,3204
+2024-06,Norway,1249
+2024-06,Philippines,20151
+2024-06,Poland,1010
+2024-06,Russian Federation,13560
+2024-06,Singapore,35041
+2024-06,South Korea,329617
+2024-06,Spain,4317
+2024-06,Sweden,1467
+2024-06,Switzerland,1378
+2024-06,Taiwan,100952
+2024-06,Thailand,28921
+2024-06,United Kingdom,17479
+2024-06,United States of America,64856
+2024-07,Australia,37853
+2024-07,Belgium,3271
+2024-07,Cambodia,28532
+2024-07,Canada,6762
+2024-07,China,249262
+2024-07,Denmark,3237
+2024-07,France,15273
+2024-07,Germany,11587
+2024-07,India,32346
+2024-07,Indonesia,14069
+2024-07,Italy,3709
+2024-07,Japan,44569
+2024-07,Lao People's Democratic Republic,16151
+2024-07,Malaysia,27509
+2024-07,Netherlands,5743
+2024-07,New Zealand,4437
+2024-07,Norway,4636
+2024-07,Philippines,21791
+2024-07,Poland,1388
+2024-07,Russian Federation,14223
+2024-07,Singapore,20367
+2024-07,South Korea,309151
+2024-07,Spain,6291
+2024-07,Sweden,2503
+2024-07,Switzerland,2304
+2024-07,Taiwan,101465
+2024-07,Thailand,20927
+2024-07,United Kingdom,17354
+2024-07,United States of America,62900
+2025-01,Australia,66504
+2025-01,Belgium,2531
+2025-01,Cambodia,100150
+2025-01,Canada,18785
+2025-01,China,574950
+2025-01,Denmark,4898
+2025-01,France,28012
+2025-01,Germany,27994
+2025-01,India,48536
+2025-01,Indonesia,19274
+2025-01,Italy,11490
+2025-01,Japan,72311
+2025-01,Lao People's Democratic Republic,15072
+2025-01,Malaysia,42935
+2025-01,Netherlands,7595
+2025-01,New Zealand,5604
+2025-01,Norway,3764
+2025-01,Philippines,34578
+2025-01,Poland,8678
+2025-01,Russian Federation,42515
+2025-01,Singapore,25817
+2025-01,South Korea,417116
+2025-01,Spain,5584
+2025-01,Sweden,6048
+2025-01,Switzerland,3999
+2025-01,Taiwan,91373
+2025-01,Thailand,40464
+2025-01,United Kingdom,33435
+2025-01,United States of America,92538
+2025-02,Australia,38313
+2025-02,Belgium,3164
+2025-02,Cambodia,41916
+2025-02,Canada,21950
+2025-02,China,380745
+2025-02,Denmark,6120
+2025-02,France,35034
+2025-02,Germany,33331
+2025-02,India,43678
+2025-02,Indonesia,16676
+2025-02,Italy,9699
+2025-02,Japan,75087
+2025-02,Lao People's Democratic Republic,18511
+2025-02,Malaysia,60051
+2025-02,Netherlands,8525
+2025-02,New Zealand,3031
+2025-02,Norway,4068
+2025-02,Philippines,30003
+2025-02,Poland,12653
+2025-02,Russian Federation,36500
+2025-02,Singapore,25851
+2025-02,South Korea,468026
+2025-02,Spain,6052
+2025-02,Sweden,5038
+2025-02,Switzerland,4172
+2025-02,Taiwan,126929
+2025-02,Thailand,37518
+2025-02,United Kingdom,39148
+2025-02,United States of America,87676
+2025-03,Australia,42303
+2025-03,Belgium,3874
+2025-03,Cambodia,91845
+2025-03,Canada,19389
+2025-03,China,630898
+2025-03,Denmark,5158
+2025-03,France,39370
+2025-03,Germany,34935
+2025-03,India,51141
+2025-03,Indonesia,12876
+2025-03,Italy,10544
+2025-03,Japan,78779
+2025-03,Lao People's Democratic Republic,17260
+2025-03,Malaysia,38114
+2025-03,Netherlands,8870
+2025-03,New Zealand,3978
+2025-03,Norway,2922
+2025-03,Philippines,31673
+2025-03,Poland,9674
+2025-03,Russian Federation,45639
+2025-03,Singapore,30813
+2025-03,South Korea,374989
+2025-03,Spain,6430
+2025-03,Sweden,3960
+2025-03,Switzerland,3734
+2025-03,Taiwan,112215
+2025-03,Thailand,46147
+2025-03,United Kingdom,41026
+2025-03,United States of America,78356
+2025-04,Australia,58379
+2025-04,Belgium,3570
+2025-04,Cambodia,45626
+2025-04,Canada,14265
+2025-04,China,368074
+2025-04,Denmark,4013
+2025-04,France,35220
+2025-04,Germany,28579
+2025-04,India,60541
+2025-04,Indonesia,23535
+2025-04,Italy,10763
+2025-04,Japan,54182
+2025-04,Lao People's Democratic Republic,11871
+2025-04,Malaysia,41239
+2025-04,Netherlands,8503
+2025-04,New Zealand,6691
+2025-04,Norway,2337
+2025-04,Philippines,39697
+2025-04,Poland,3656
+2025-04,Russian Federation,41806
+2025-04,Singapore,27666
+2025-04,South Korea,326140
+2025-04,Spain,7256
+2025-04,Sweden,2628
+2025-04,Switzerland,4497
+2025-04,Taiwan,109697
+2025-04,Thailand,44759
+2025-04,United Kingdom,41779
+2025-04,United States of America,64892
+2025-05,Australia,35597
+2025-05,Belgium,1868
+2025-05,Cambodia,44981
+2025-05,Canada,11170
+2025-05,China,407572
+2025-05,Denmark,1694
+2025-05,France,22528
+2025-05,Germany,14615
+2025-05,India,67629
+2025-05,Indonesia,17624
+2025-05,Italy,4946
+2025-05,Japan,61797
+2025-05,Lao People's Democratic Republic,12183
+2025-05,Malaysia,38178
+2025-05,Netherlands,5126
+2025-05,New Zealand,3960
+2025-05,Norway,989
+2025-05,Philippines,39578
+2025-05,Poland,2246
+2025-05,Russian Federation,43671
+2025-05,Singapore,28498
+2025-05,South Korea,318572
+2025-05,Spain,5562
+2025-05,Sweden,1504
+2025-05,Switzerland,1648
+2025-05,Taiwan,92683
+2025-05,Thailand,36929
+2025-05,United Kingdom,23659
+2025-05,United States of America,51955
+2025-06,Australia,34869
+2025-06,Belgium,1290
+2025-06,Cambodia,35753
+2025-06,Canada,7441
+2025-06,China,364801
+2025-06,Denmark,1301
+2025-06,France,13590
+2025-06,Germany,11396
+2025-06,India,65993
+2025-06,Indonesia,16879
+2025-06,Italy,3866
+2025-06,Japan,51162
+2025-06,Lao People's Democratic Republic,13786
+2025-06,Malaysia,46352
+2025-06,Netherlands,3878
+2025-06,New Zealand,4226
+2025-06,Norway,2767
+2025-06,Philippines,42104
+2025-06,Poland,1406
+2025-06,Russian Federation,49718
+2025-06,Singapore,40364
+2025-06,South Korea,303130
+2025-06,Spain,5152
+2025-06,Sweden,2236
+2025-06,Switzerland,1441
+2025-06,Taiwan,97089
+2025-06,Thailand,30154
+2025-06,United Kingdom,20319
+2025-06,United States of America,73715
+2025-07,Australia,47701
+2025-07,Belgium,4878
+2025-07,Cambodia,41151
+2025-07,Canada,10003
+2025-07,China,391051
+2025-07,Denmark,4536
+2025-07,France,24534
+2025-07,Germany,16081
+2025-07,India,49599
+2025-07,Indonesia,16784
+2025-07,Italy,5491
+2025-07,Japan,55947
+2025-07,Lao People's Democratic Republic,25906
+2025-07,Malaysia,36933
+2025-07,Netherlands,11913
+2025-07,New Zealand,5409
+2025-07,Norway,5197
+2025-07,Philippines,37034
+2025-07,Poland,2128
+2025-07,Russian Federation,55289
+2025-07,Singapore,26997
+2025-07,South Korea,317070
+2025-07,Spain,8340
+2025-07,Sweden,2616
+2025-07,Switzerland,3664
+2025-07,Taiwan,106653
+2025-07,Thailand,29125
+2025-07,United Kingdom,26248
+2025-07,United States of America,72509
+2026-01,Australia,75021
+2026-01,Belgium,3237
+2026-01,Cambodia,223025
+2026-01,Canada,23083
+2026-01,China,459435
+2026-01,Czechia,4666
+2026-01,Denmark,5656
+2026-01,France,35101
+2026-01,Germany,33037
+2026-01,India,87604
+2026-01,Indonesia,27253
+2026-01,Italy,16461
+2026-01,Japan,84532
+2026-01,Lao People's Democratic Republic,11206
+2026-01,Malaysia,62441
+2026-01,Netherlands,9458
+2026-01,New Zealand,6415
+2026-01,Norway,4588
+2026-01,Philippines,60524
+2026-01,Poland,17240
+2026-01,Russian Federation,125449
+2026-01,Singapore,39165
+2026-01,South Korea,489669
+2026-01,Spain,7493
+2026-01,Sweden,7999
+2026-01,Switzerland,5067
+2026-01,Taiwan,101292
+2026-01,Thailand,44755
+2026-01,United Kingdom,41119
+2026-01,United States of America,103597
+2026-02,Australia,45121
+2026-02,Belgium,4208
+2026-02,Cambodia,54205
+2026-02,Canada,26971
+2026-02,China,463147
+2026-02,Czechia,5672
+2026-02,Denmark,7939
+2026-02,France,40411
+2026-02,Germany,39032
+2026-02,India,70856
+2026-02,Indonesia,18421
+2026-02,Italy,11116
+2026-02,Japan,67047
+2026-02,Lao People's Democratic Republic,15543
+2026-02,Malaysia,57578
+2026-02,Netherlands,10583
+2026-02,New Zealand,3685
+2026-02,Norway,5688
+2026-02,Philippines,50532
+2026-02,Poland,18463
+2026-02,Russian Federation,121493
+2026-02,Singapore,30549
+2026-02,South Korea,481589
+2026-02,Spain,6172
+2026-02,Sweden,6866
+2026-02,Switzerland,5641
+2026-02,Taiwan,119112
+2026-02,Thailand,38682
+2026-02,United Kingdom,43868
+2026-02,United States of America,105981
+2026-03,Australia,54035
+2026-03,Belgium,3915
+2026-03,Cambodia,52872
+2026-03,Canada,24616
+2026-03,China,482587
+2026-03,Czechia,4360
+2026-03,Denmark,5875
+2026-03,France,40259
+2026-03,Germany,40251
+2026-03,India,84196
+2026-03,Indonesia,24585
+2026-03,Italy,10530
+2026-03,Japan,93460
+2026-03,Lao People's Democratic Republic,19450
+2026-03,Malaysia,51354
+2026-03,Netherlands,9620
+2026-03,New Zealand,4963
+2026-03,Norway,3273
+2026-03,Philippines,51915
+2026-03,Poland,11529
+2026-03,Russian Federation,120226
+2026-03,Singapore,37701
+2026-03,South Korea,355167
+2026-03,Spain,6412
+2026-03,Sweden,4326
+2026-03,Switzerland,4441
+2026-03,Taiwan,95877
+2026-03,Thailand,48778
+2026-03,United Kingdom,42254
+2026-03,United States of America,92823
+2026-04,Australia,71861
+2026-04,Belgium,4083
+2026-04,Cambodia,65731
+2026-04,Canada,20233
+2026-04,China,449524
+2026-04,Czechia,2639
+2026-04,Denmark,4432
+2026-04,France,38451
+2026-04,Germany,30607
+2026-04,India,81738
+2026-04,Indonesia,23885
+2026-04,Italy,8178
+2026-04,Japan,64086
+2026-04,Lao People's Democratic Republic,14307
+2026-04,Malaysia,50613
+2026-04,Netherlands,9080
+2026-04,New Zealand,8035
+2026-04,Norway,2657
+2026-04,Philippines,72827
+2026-04,Poland,5680
+2026-04,Russian Federation,137221
+2026-04,Singapore,35580
+2026-04,South Korea,320062
+2026-04,Spain,6042
+2026-04,Sweden,3192
+2026-04,Switzerland,5035
+2026-04,Taiwan,117377
+2026-04,Thailand,50812
+2026-04,United Kingdom,44314
+2026-04,United States of America,82930
+2026-05,Australia,46236
+2026-05,Belgium,2892
+2026-05,Cambodia,59291
+2026-05,Canada,14675
+2026-05,China,443705
+2026-05,Czechia,1321
+2026-05,Denmark,2032
+2026-05,France,27440
+2026-05,Germany,18195
+2026-05,India,84069
+2026-05,Indonesia,21624
+2026-05,Italy,5762
+2026-05,Japan,73344
+2026-05,Lao People's Democratic Republic,13018
+2026-05,Malaysia,44785
+2026-05,Netherlands,6240
+2026-05,New Zealand,5430
+2026-05,Norway,1118
+2026-05,Philippines,65875
+2026-05,Poland,3065
+2026-05,Russian Federation,113462
+2026-05,Singapore,35163
+2026-05,South Korea,277919
+2026-05,Spain,4742
+2026-05,Sweden,1755
+2026-05,Switzerland,2496
+2026-05,Taiwan,104318
+2026-05,Thailand,40253
+2026-05,United Kingdom,26095
+2026-05,United States of America,60482
+2026-06,Australia,44382
+2026-06,Belgium,1573
+2026-06,Cambodia,53469
+2026-06,Canada,9057
+2026-06,China,398033
+2026-06,Czechia,878
+2026-06,Denmark,1558
+2026-06,France,16109
+2026-06,Germany,14063
+2026-06,India,82868
+2026-06,Indonesia,19427
+2026-06,Italy,4642
+2026-06,Japan,59154
+2026-06,Lao People's Democratic Republic,6823
+2026-06,Malaysia,62547
+2026-06,Netherlands,4680
+2026-06,New Zealand,5178
+2026-06,Norway,2394
+2026-06,Philippines,63048
+2026-06,Poland,2312
+2026-06,Russian Federation,124828
+2026-06,Singapore,53400
+2026-06,South Korea,236561
+2026-06,Spain,4711
+2026-06,Sweden,2373
+2026-06,Switzerland,1812
+2026-06,Taiwan,100462
+2026-06,Thailand,36220
+2026-06,United Kingdom,23030
+2026-06,United States of America,84050

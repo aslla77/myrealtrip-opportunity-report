@@ -1,0 +1,14 @@
+dest,gateway,lat,lon,flight_hours_approx
+Japan,Tokyo,35.68,139.69,2.5
+Taiwan,Taipei,25.03,121.56,2.5
+Macao,Macao,22.16,113.55,3.5
+Philippines,Manila,14.60,120.98,4.5
+Vietnam,Hanoi,21.03,105.85,5.0
+Thailand,Bangkok,13.75,100.50,6.0
+Malaysia,Kuala Lumpur,3.14,101.69,6.5
+Singapore,Singapore,1.35,103.82,6.5
+Indonesia,Jakarta,-6.20,106.85,7.0
+Canada,Vancouver,49.19,-123.18,10.0
+Australia,Sydney,-33.87,151.21,10.5
+USA,Los Angeles,34.05,-118.24,11.0
+NewZealand,Auckland,-36.85,174.76,11.0

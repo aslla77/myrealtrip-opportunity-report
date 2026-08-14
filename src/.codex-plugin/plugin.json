@@ -1,0 +1,11 @@
+{
+  "name": "myrealtrip-opportunity-report",
+  "version": "0.2.0",
+  "description": "마이리얼트립 '국가별 여행지 & 한국 기회' 보고서 생성기. 목적지 입국통계 패널에서 각 출발국의 top 여행지와, 리드국이 가는 곳 중 한국 저침투·비근접 목적지를 거리-보정으로 랭킹해 2섹션 보고서를 산출.",
+  "author": {
+    "name": "AX Hackathon Team"
+  },
+  "license": "MIT",
+  "keywords": ["travel", "tourism", "destination-discovery", "myrealtrip", "opportunity-detection"],
+  "skills": "./skills/"
+}
